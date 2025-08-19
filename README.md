@@ -1,2 +1,2 @@
 # Bike-Xpress
-Web para alquiler de bicicletas
+Web basica(muy basica) para alquiler de bicicletas
